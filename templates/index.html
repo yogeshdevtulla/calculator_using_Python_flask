@@ -1,11 +1,14 @@
-{% block head %}
-
-<title>Calculator</title>
-<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-{% endblock %}
-
-{% block body %}
-<div class="content">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="\static\css\main.css">
+    <link rel="stylesheet" href="\static\css\style.css"> 
+</head>
+<body>
+    <div class="content">
     <h1 style="text-align: center">Calculator</h1>
 
     <div class="form">
@@ -25,4 +28,6 @@
         </form>
     </div>
 </div>
-{% endblock %}
+    
+</body>
+</html>
