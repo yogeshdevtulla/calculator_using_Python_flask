@@ -14,3 +14,7 @@ To access your flask application open new tab in and paste the url:
 ```
 localhost:5000
 ```
+![image](https://github.com/yogeshdevtulla/calculator_using_Python_flask/assets/101208427/d977484f-26d9-4cd0-93b7-4d9fbc213b51)
+
+
+![image](https://github.com/yogeshdevtulla/calculator_using_Python_flask/assets/101208427/70aa9bed-a951-4a98-b8ca-e20084c57543)
